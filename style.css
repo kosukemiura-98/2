@@ -203,7 +203,7 @@ header .header__list .header__item .header__item--link.is-active::after {
 }
 
 .mv {
-  background: url(/mv.png) center center/cover;
+  background: url(mv.png) center center/cover;
   padding-top: 68px;
 }
 
