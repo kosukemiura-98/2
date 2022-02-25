@@ -551,6 +551,7 @@ header .header__list .header__item .header__item--link.is-active::after {
   margin: 120px 0 0 auto;
   color: #ffffff;
   max-width: calc(50vw + 600px);
+  overflow: hidden;
 }
 
 @media screen and (max-width: 767px) {
